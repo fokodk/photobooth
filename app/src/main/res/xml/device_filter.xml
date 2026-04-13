@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nikon cameras (vendor ID 0x04b0 = 1200 decimal) -->
+    <usb-device vendor-id="1200" />
+</resources>

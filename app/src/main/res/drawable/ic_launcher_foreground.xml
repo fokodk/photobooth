@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,38h4l2,-3h12l2,3h4c2.2,0 4,1.8 4,4v18c0,2.2 -1.8,4 -4,4H42c-2.2,0 -4,-1.8 -4,-4V42c0,-2.2 1.8,-4 4,-4zM54,58c4.4,0 8,-3.6 8,-8s-3.6,-8 -8,-8s-8,3.6 -8,8s3.6,8 8,8zM54,44c3.3,0 6,2.7 6,6s-2.7,6 -6,6s-6,-2.7 -6,-6s2.7,-6 6,-6z" />
+</vector>
