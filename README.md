@@ -178,9 +178,27 @@ app/src/main/java/com/photobooth/
 
 ---
 
+## ☕ Support
+
+If you find this useful, consider buying me a coffee!
+
+[![PayPal](https://img.shields.io/badge/PayPal-Buy%20me%20a%20coffee-blue?logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/B67VSF84HA2R2)
+
+---
+
 ## License
 
-MIT
+Licensed under the [Apache License 2.0](LICENSE).
+
+```
+Copyright 2026 fokodk
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+```
 
 ---
 
